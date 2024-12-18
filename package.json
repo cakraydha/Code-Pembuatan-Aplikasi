@@ -1,0 +1,13 @@
+{
+  "name": "Penentuan-Jenis-Minyak-App",
+  "version": "1.0.0",
+  "description": "Aplikasi Penentu Jenis Minyak Secara Sederhana.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.2.0",
+    "electron-packager": "^17.1.2"
+  }
+}
